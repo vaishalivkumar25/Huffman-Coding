@@ -1,5 +1,4 @@
 # Huffman Coding
-A project to generate Huffman code using Pairing Heap, Binary Heap and 4 way cache optimized heap.
 In the first step of the project, Binary Heap, 4-way cache optimized heap and Pairing Heap were used as priority queue
 to develop a program to generate Huffman codes and evaluate the one giving the best performance. Pairing heap was
 identified to give the best performance. In the second part of the project Pairing heap was used as priority queue to
